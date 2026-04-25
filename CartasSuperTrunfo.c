@@ -103,6 +103,8 @@ int main() {
   
   //---EXIBIÇAO CARTA 2---
   
+  printf("*** Carta 2 ***\n");
+  
   printf("Estado: %c\n",estado2);
   printf("Código da carta: %s\n", codigo_carta2);
   printf("Nome da Cidade: %s\n", nome_cidade2);
